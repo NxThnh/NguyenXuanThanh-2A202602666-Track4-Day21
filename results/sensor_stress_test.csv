@@ -1,0 +1,11 @@
+test_type,param_value,param_unit,num_clusters,nearest_dist_m,obstacle_pts,latency_ms
+random_dropout,1.0,keep_ratio,46,1.68,10920,75.22
+random_dropout,0.8,keep_ratio,44,1.68,9702,56.39
+random_dropout,0.6,keep_ratio,38,1.66,8174,40.57
+random_dropout,0.4,keep_ratio,32,1.9,6461,33.0
+random_dropout,0.2,keep_ratio,21,1.7,4002,18.8
+gaussian_noise,0.0,sigma_m,50,1.68,11094,57.69
+gaussian_noise,0.03,sigma_m,46,1.63,13028,70.39
+gaussian_noise,0.06,sigma_m,52,1.57,16926,91.23
+gaussian_noise,0.1,sigma_m,47,1.61,21704,132.47
+gaussian_noise,0.15,sigma_m,49,1.43,28160,141.61

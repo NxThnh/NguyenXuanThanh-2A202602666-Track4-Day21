@@ -1,0 +1,9 @@
+dataset,beams,frame_id,raw_points,obstacle_points,num_clusters,nearest_dist_m,latency_ms
+KITTI-3D,64,000001,120268,10705,28,4.31,59.02
+KITTI-3D,64,000011,108004,10919,53,1.68,57.19
+KITTI-3D,64,000021,125260,15883,27,1.78,72.2
+KITTI-3D,64,000049,113691,10354,47,2.55,58.67
+nuScenes-v1.0-mini,32,scene-0103_000,34752,2013,14,0.37,12.4
+nuScenes-v1.0-mini,32,scene-0103_010,34720,2794,15,0.37,15.2
+nuScenes-v1.0-mini,32,scene-1094_000,34400,2333,22,0.0,15.91
+nuScenes-v1.0-mini,32,scene-1094_010,34688,1672,19,0.0,14.01
